@@ -1,0 +1,23 @@
+{
+  "name": "WEB_AUT_SIGNE_GROSBERGA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grosbergasigne1998/WEB_AUT_SIGNE_GROSBERGA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grosbergasigne1998/WEB_AUT_SIGNE_GROSBERGA.git/issues"
+  },
+  "homepage": "https://github.com/grosbergasigne1998/WEB_AUT_SIGNE_GROSBERGA.git#readme"
+}
