@@ -1,0 +1,15 @@
+{
+    "name": "Anna",
+    "lastName": "Auza",
+    "email": "auza@mail.com",
+    "phone": "28888888",
+    "year": "1930",
+    "subject": "Economics",
+    "filePath": "cypress/files/cipari.png",
+    "picture": "image.png",
+    "address": "Auzu iela 54, Latvija",
+    "gender": "Female",
+    "dob": "28 February,1930",
+    "hobbies": "Music",
+    "stateAndCity": "NCR Delhi"
+}
